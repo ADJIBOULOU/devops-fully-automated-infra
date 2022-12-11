@@ -109,3 +109,10 @@ Once both the above steps are done click on Save.
 
 ## Finally observe the whole flow and understand the integrations :) 
 # Happy learning, everyone 😊 😊
+
+## Finally to delete 
+run this command 
+
+ cd /var/lib/jenkins/workspace/app-infra-pipeline
+ 
+     terraform destroy 
